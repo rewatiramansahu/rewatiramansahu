@@ -134,3 +134,99 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
     </a>
 
+
+
+    # Rewatiraman Sahu
+
+- **Phone:** +91-9753153208
+- **Email:** rewatiramansahu@gmail.com
+
+## Career Objective
+
+To secure a challenging position where I can leverage my skills and knowledge for the advancement and growth of the organization.
+
+## Educational Summary
+
+- Bachelor of Engineering in Computer Science from Chhattisgarh Swami Vivekananda University, Bhilai.
+- Proficient in HTML, CSS, JavaScript, JQuery, Angular8-9, Material UI, Bootstrap, PHP, Laravel, MySQL, Java (Core + Advance), Oracle, and other technical areas.
+
+## Educational Qualifications
+
+| SN. | Course | University/Board | Name Of Institution              | Year Of Passing | Percentage |
+|-----|--------|------------------|----------------------------------|-----------------|------------|
+| 1.  | BE     | CSVTU, Bhilai    | Rungta College Of Engineering & Technology | 2013           | 67.72%     |
+| 2.  | Diploma | CSVTU, Bhilai    | Kirodimal Gov Poly. Raigarh       | 2010           | 67.66%     |
+| 3.  | HSC    | CG Board Of Sec. Education, Raipur | Famous Gyan Ganga H S Nagarda     | 2007           | 79.67%     |
+
+## Vocational Training
+
+- Java Training from Hyderabad.
+- Oracle DB10g Training from Hyderabad.
+
+## Key Skills
+
+- HTML, CSS, JavaScript, JQuery, Angular8-9, Material UI, Bootstrap, PHP, Laravel (Currently Working), MySQL, Java (Core + Advance), Oracle, CMS based projects, MVC Model.
+
+## Work Experience with Projects Details
+
+### Growex Pvt Ltd, Ahmedabad (June 2022 - February 2023)
+- Software Developer.
+- Key skills: HTML, CSS, JavaScript, JQuery, Material UI, Bootstrap, PHP, Laravel (Currently Working).
+- Worked on Web Enabled projects, CMS based projects, and e-Commerce platform projects.
+- Developed interactive Admin Panel using HTML, PHP, JavaScript, and other development tools.
+
+### SNS System Indore (May 2020 - January 2022)
+- Software Developer.
+- Key skills: HTML, CSS, JavaScript, JQuery, Material UI, Bootstrap, PHP, Laravel (Currently Working).
+- Worked on Web Enabled projects, CMS based projects, and e-Commerce platform projects.
+- Utilized various development tools.
+
+### Siddhi Softwares Bilaspur C.G. (April 2019 - January 2020)
+- Web Designer + Developer.
+- Key skills: HTML, CSS, JavaScript, JQuery, Bootstrap, PHP, Laravel (Worked on Laravel), MySQL, Java (Core + Advance), Oracle.
+- Worked on Web Enabled projects, CMS based projects, and e-Commerce platform projects.
+- Created interactive Admin Panel using HTML, PHP, JavaScript, and other development tools.
+- Projects:
+  - School Software (BPS School - Korba, Bilaspur, Janjgir).
+  - www.bpsjanjgir.com (With Its Admin panel).
+  - Inventory Software (STL Korba).
+  - and many more websites and software.
+
+### Reliable Services (July 2018 - April 2019)
+- Web Designer + Developer.
+- Key skills: HTML, CSS, JavaScript, JQuery, PHP, Laravel (Worked on Laravel), MySQL, Java (Core + Advance), Oracle.
+- Worked on Web Enabled projects, CMS based projects, and e-Commerce platform projects.
+- Created interactive Admin Panel using HTML, PHP, JavaScript, and other development tools.
+- Projects:
+  - www.shankarahyundai.com (With Its Admin panel).
+  - www.ganpatidevelopers.com (With Its Admin panel).
+  - www.induitschool.in (With Its Admin panel).
+  - www.araticonstruction.com (With Its Admin panel).
+  - and many more websites and software.
+
+### SWAN SOFTECH PVT LTD (May 2016 - July 2018)
+- Web Designer (Developer).
+- Key skills: HTML, CSS, JavaScript, JQuery, PHP, MySQL, Java (Core + Advance), Oracle.
+- Worked on Web Enabled projects, CMS based projects, and e-Commerce platform projects.
+- Projects:
+  - www.srishtiengineers.in (With Its Admin panel).
+  - www.zarpaints.com (With Its Admin panel).
+  - www.swanspl.com (With Its Admin panel).
+  - Worked on Inventory Softwares and many others.
+
+## Personal Details
+
+- Father's Name: Mr. Khageshwar Prasad Sahu
+- Mother's Name: Mrs. Pushpa Sahu
+- Date of Birth: 22-04-1990
+- Sex: Male
+- Nationality: Indian
+- Marital Status: Married
+- Languages: Hindi & English
+- Address: At+Post–Nagarda, Block–Bilaigarh, Distt–Balodabazar (C.G.)
+
+## Declaration
+
+I hereby declare that all the information mentioned above is true and based on the best of my knowledge.
+
+
