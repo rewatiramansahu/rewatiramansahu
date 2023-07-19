@@ -136,8 +136,6 @@ Languages and Tools:
 
 
 
-    # Rewatiraman Sahu
-
 - **Phone:** +91-9753153208
 - **Email:** rewatiramansahu@gmail.com
 
@@ -148,7 +146,7 @@ To secure a challenging position where I can leverage my skills and knowledge fo
 ## Educational Summary
 
 - Bachelor of Engineering in Computer Science from Chhattisgarh Swami Vivekananda University, Bhilai.
-- Proficient in HTML, CSS, JavaScript, JQuery, Angular8-9, Material UI, Bootstrap, PHP, Laravel, MySQL, Java (Core + Advance), Oracle, and other technical areas.
+- Proficient as a Fullstack Developer and other technical areas.
 
 ## Educational Qualifications
 
@@ -158,14 +156,11 @@ To secure a challenging position where I can leverage my skills and knowledge fo
 | 2.  | Diploma | CSVTU, Bhilai    | Kirodimal Gov Poly. Raigarh       | 2010           | 67.66%     |
 | 3.  | HSC    | CG Board Of Sec. Education, Raipur | Famous Gyan Ganga H S Nagarda     | 2007           | 79.67%     |
 
-## Vocational Training
 
-- Java Training from Hyderabad.
-- Oracle DB10g Training from Hyderabad.
 
 ## Key Skills
 
-- HTML, CSS, JavaScript, JQuery, Angular8-9, Material UI, Bootstrap, PHP, Laravel (Currently Working), MySQL, Java (Core + Advance), Oracle, CMS based projects, MVC Model.
+- HTML5, CSS3, JavaScript, JQuery, Angular8- current,Nodejs, MongoDB,   Material UI, Bootstrap, PHP, Laravel (Currently Working), MySQL,  MVC Model.
 
 ## Work Experience with Projects Details
 
