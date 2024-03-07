@@ -160,9 +160,9 @@ To secure a challenging position where I can leverage my skills and knowledge fo
 
 ## Key Skills
 
-- HTML5, CSS3, JavaScript, JQuery, Angular8- current,Nodejs, MongoDB,   Material UI, Bootstrap, PHP, Laravel (Currently Working), MySQL,  MVC Model.
+- Working as a MEAN Developer / Fullstack Developer,  Working Area is Javascript, Angular, Node, Express, Mongo,  HTML5, CSS3, Php, Laravel, MySQL, Postgrey, MSSQL, GIT, JIRA, Bootstrap5, Material UI   and other web Technologies.
 
-## Work Experience with Projects Details
+## Work Experience 
 
 ### Growex Pvt Ltd, Ahmedabad (June 2022 - February 2023)
 - Software Developer.
@@ -181,33 +181,174 @@ To secure a challenging position where I can leverage my skills and knowledge fo
 - Key skills: HTML, CSS, JavaScript, JQuery, Bootstrap, PHP, Laravel (Worked on Laravel), MySQL, Java (Core + Advance), Oracle.
 - Worked on Web Enabled projects, CMS based projects, and e-Commerce platform projects.
 - Created interactive Admin Panel using HTML, PHP, JavaScript, and other development tools.
-- Projects:
-  - School Software (BPS School - Korba, Bilaspur, Janjgir).
-  - www.bpsjanjgir.com (With Its Admin panel).
-  - Inventory Software (STL Korba).
-  - and many more websites and software.
+
 
 ### Reliable Services (July 2018 - April 2019)
 - Web Designer + Developer.
 - Key skills: HTML, CSS, JavaScript, JQuery, PHP, Laravel (Worked on Laravel), MySQL, Java (Core + Advance), Oracle.
 - Worked on Web Enabled projects, CMS based projects, and e-Commerce platform projects.
 - Created interactive Admin Panel using HTML, PHP, JavaScript, and other development tools.
-- Projects:
-  - www.shankarahyundai.com (With Its Admin panel).
-  - www.ganpatidevelopers.com (With Its Admin panel).
-  - www.induitschool.in (With Its Admin panel).
-  - www.araticonstruction.com (With Its Admin panel).
-  - and many more websites and software.
+
 
 ### SWAN SOFTECH PVT LTD (May 2016 - July 2018)
 - Web Designer (Developer).
 - Key skills: HTML, CSS, JavaScript, JQuery, PHP, MySQL, Java (Core + Advance), Oracle.
 - Worked on Web Enabled projects, CMS based projects, and e-Commerce platform projects.
-- Projects:
-  - www.srishtiengineers.in (With Its Admin panel).
-  - www.zarpaints.com (With Its Admin panel).
-  - www.swanspl.com (With Its Admin panel).
-  - Worked on Inventory Softwares and many others.
+
+##  Projects Details
+# Project 1 :
+
+**Project name:** HPN (Hotel Private Network)
+
+**Description:**
+The HPN (Hotel Private Network) project aims to develop a secure and efficient private network system tailored specifically for hotels. This network facilitates seamless communication and data exchange within the hotel premises while ensuring the highest standards of security and privacy for both guests and staff.
+
+**Roles and responsibilities:**
+Senior Software Developer
+
+**Technical skills:**
+- HTML
+- CSS
+- JavaScript
+- Material UI
+- Bootstrap
+- Angular 14
+- Node.js
+- Express.js
+- MongoDB
+
+
+# Project 2 :
+
+**Project name:** Tour & Travels
+
+**Description:**
+The Tour & Travels project is aimed at developing a comprehensive platform for managing and facilitating travel-related activities. This platform will offer features such as itinerary planning, booking management, real-time updates, and personalized recommendations to enhance the travel experience for users.
+
+**Roles and responsibilities:**
+Senior Software Developer
+
+**Technical skills:**
+- HTML
+- CSS
+- JavaScript
+- Material UI
+- Bootstrap
+- Angular 12
+- Node.js
+- Express.js
+- MongoDB
+
+
+# Project 3 :
+
+**Project name:** Inventory Management System
+
+**Description:**
+The Inventory Management System project is designed to streamline the process of tracking and managing inventory for businesses. It provides a centralized platform for monitoring stock levels, tracking inventory movements, generating reports, and optimizing inventory levels to ensure efficient operations and minimize costs.
+
+**Roles and responsibilities:**
+Senior Software Developer
+
+**Technical skills:**
+- HTML
+- CSS
+- JavaScript
+- Material UI
+- Bootstrap
+- Angular 9
+- Node.js
+- Express.js
+- MongoDB
+
+
+# Project 4 :
+
+**Project name:** Vaccination Management System
+
+**Description:**
+The Vaccination Management System is a software solution aimed at facilitating the efficient and organized distribution and administration of vaccines. It provides a comprehensive platform for managing vaccination campaigns, tracking vaccine inventory, scheduling appointments, recording immunization data, and generating vaccination reports.
+
+**Roles and responsibilities:**
+Software Developer
+
+**Technical skills:**
+- HTML
+- CSS
+- JavaScript
+- Material UI
+- Bootstrap
+- Angular 8
+- Node.js
+- Express.js
+- MongoDB
+
+
+# Project 5 :
+
+**Project name:** Terra Caribbean Real Estate Management System
+
+**Description:**
+The Terra Caribbean Real Estate Management System is a comprehensive software solution tailored for real estate agencies and property management firms operating in the Caribbean region. It provides an integrated platform for managing property listings, client interactions, transactions, and administrative tasks to streamline operations and enhance customer satisfaction.
+
+**Roles and responsibilities:**
+Software Developer
+
+**Technical skills:**
+- HTML
+- SCSS
+- JavaScript
+- Material UI
+- Bootstrap
+- Angular 8
+- Node.js
+- Express.js
+- PostGrey DB
+
+
+# Project 6 :
+
+**Project name:** Transport Management System
+
+**Description:**
+The Transport Management System (TMS) is a software solution designed to streamline and optimize the operations of transportation companies. It provides tools for managing various aspects of transportation, including fleet management, route planning, scheduling, tracking, and reporting, to improve efficiency, reduce costs, and enhance customer satisfaction.
+
+**Roles and responsibilities:**
+Senior Software Developer
+
+**Technical skills:**
+- HTML
+- CSS
+- JavaScript
+- Material UI
+- Bootstrap
+- Angular JS
+- Node.js
+- Express.js
+- MongoDB
+
+
+# Project 7 :
+
+**Project name:** E-commerce Management System
+
+**Description:**
+The E-commerce Management System is a comprehensive software solution designed to facilitate the management of online retail businesses. It provides tools for managing product listings, inventory, orders, payments, customer interactions, and marketing activities to streamline operations and maximize sales.
+
+**Roles and responsibilities:**
+Senior Software Developer
+
+**Technical skills:**
+- HTML
+- CSS
+- JavaScript
+- Material UI
+- Bootstrap
+- Angular 8
+- Node.js
+- Express.js
+- MongoDB
+
 
 ## Personal Details
 
