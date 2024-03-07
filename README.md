@@ -164,36 +164,24 @@ To secure a challenging position where I can leverage my skills and knowledge fo
 
 ## Work Experience 
 
-### Growex Pvt Ltd, Ahmedabad (June 2022 - February 2023)
-- Software Developer.
-- Key skills: HTML, CSS, JavaScript, JQuery, Material UI, Bootstrap, PHP, Laravel (Currently Working).
-- Worked on Web Enabled projects, CMS based projects, and e-Commerce platform projects.
-- Developed interactive Admin Panel using HTML, PHP, JavaScript, and other development tools.
+### From April 2023 To Current
+Working as Software Developer in Web Synergies Pvt Ltd, Hyderabad. Key skills include JavaScript, Angular, Node, Express, MongoDB, HTML5, CSS3, MySQL, Postgrey, MSSQL, GIT, JIRA, Bootstrap5, Material UI, and other web technologies.
 
-### SNS System Indore (May 2020 - January 2022)
-- Software Developer.
-- Key skills: HTML, CSS, JavaScript, JQuery, Material UI, Bootstrap, PHP, Laravel (Currently Working).
-- Worked on Web Enabled projects, CMS based projects, and e-Commerce platform projects.
-- Utilized various development tools.
+### From Jun 2022 To Feb 2023
+Working as Software Developer in Growex Pvt Ltd, Ahmedabad. Key skills include JavaScript, Angular, Node, Express, MongoDB, HTML5, CSS3, MySQL, Postgrey, MSSQL, GIT, JIRA, Bootstrap5, Material UI, and other web technologies.
 
-### Siddhi Softwares Bilaspur C.G. (April 2019 - January 2020)
-- Web Designer + Developer.
-- Key skills: HTML, CSS, JavaScript, JQuery, Bootstrap, PHP, Laravel (Worked on Laravel), MySQL, Java (Core + Advance), Oracle.
-- Worked on Web Enabled projects, CMS based projects, and e-Commerce platform projects.
-- Created interactive Admin Panel using HTML, PHP, JavaScript, and other development tools.
+### From April 2021 To Oct 2021 
+Working as Software Developer in SNS System Indore. Key skills include JavaScript, Angular, Node, Express, MongoDB, HTML5, CSS3, MySQL, Postgrey, MSSQL, GIT, JIRA, Bootstrap5, Material UI, and other web technologies.
 
+### From April 2019 To April 2021 
+Working as Web Designer + Developer in Siddhi Softwares Bilaspur C.G. Key skills include JavaScript, Angular, Node, Express, MongoDB, HTML5, CSS3, MySQL, Postgrey, MSSQL, GIT, JIRA, Bootstrap5, Material UI, and other web technologies.
 
-### Reliable Services (July 2018 - April 2019)
-- Web Designer + Developer.
-- Key skills: HTML, CSS, JavaScript, JQuery, PHP, Laravel (Worked on Laravel), MySQL, Java (Core + Advance), Oracle.
-- Worked on Web Enabled projects, CMS based projects, and e-Commerce platform projects.
-- Created interactive Admin Panel using HTML, PHP, JavaScript, and other development tools.
+### From June 2018 To April 2019 
+Working as Web Designer + Developer in Reliable Services. Key skills include JavaScript, Angular, Node, Express, MongoDB, HTML5, CSS3, MySQL, Postgrey, MSSQL, GIT, JIRA, Bootstrap5, Material UI, and other web technologies.
 
+### From May 2016 To June 2018 
+Working as Web Designer (Developer) in SWAN SOFTECH PVT LTD. Key skills include JavaScript, HTML, CSS, MySQL, Postgrey, MSSQL, GIT, Bootstrap, and other web technologies.
 
-### SWAN SOFTECH PVT LTD (May 2016 - July 2018)
-- Web Designer (Developer).
-- Key skills: HTML, CSS, JavaScript, JQuery, PHP, MySQL, Java (Core + Advance), Oracle.
-- Worked on Web Enabled projects, CMS based projects, and e-Commerce platform projects.
 
 ##  Projects Details
 ### Project 1 :
