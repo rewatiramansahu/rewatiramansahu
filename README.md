@@ -196,7 +196,7 @@ To secure a challenging position where I can leverage my skills and knowledge fo
 - Worked on Web Enabled projects, CMS based projects, and e-Commerce platform projects.
 
 ##  Projects Details
-# Project 1 :
+### Project 1 :
 
 **Project name:** HPN (Hotel Private Network)
 
@@ -218,7 +218,7 @@ Senior Software Developer
 - MongoDB
 
 
-# Project 2 :
+### Project 2 :
 
 **Project name:** Tour & Travels
 
@@ -240,7 +240,7 @@ Senior Software Developer
 - MongoDB
 
 
-# Project 3 :
+### Project 3 :
 
 **Project name:** Inventory Management System
 
@@ -262,7 +262,7 @@ Senior Software Developer
 - MongoDB
 
 
-# Project 4 :
+### Project 4 :
 
 **Project name:** Vaccination Management System
 
@@ -284,7 +284,7 @@ Software Developer
 - MongoDB
 
 
-# Project 5 :
+### Project 5 :
 
 **Project name:** Terra Caribbean Real Estate Management System
 
@@ -306,7 +306,7 @@ Software Developer
 - PostGrey DB
 
 
-# Project 6 :
+### Project 6 :
 
 **Project name:** Transport Management System
 
@@ -328,7 +328,7 @@ Senior Software Developer
 - MongoDB
 
 
-# Project 7 :
+### Project 7 :
 
 **Project name:** E-commerce Management System
 
