@@ -168,19 +168,19 @@ To secure a challenging position where I can leverage my skills and knowledge fo
 Working as Software Developer in Web Synergies Pvt Ltd, Hyderabad. Key skills include JavaScript, Angular, Node, Express, MongoDB, HTML5, CSS3, MySQL, Postgrey, MSSQL, GIT, JIRA, Bootstrap5, Material UI, and other web technologies.
 
 ### From Jun 2022 To Feb 2023
-Working as Software Developer in Growex Pvt Ltd, Ahmedabad. Key skills include JavaScript, Angular, Node, Express, MongoDB, HTML5, CSS3, MySQL, Postgrey, MSSQL, GIT, JIRA, Bootstrap5, Material UI, and other web technologies.
+Working as Software Developer in **Growex Pvt Ltd**, Ahmedabad. Key skills include JavaScript, Angular, Node, Express, MongoDB, HTML5, CSS3, MySQL, Postgrey, MSSQL, GIT, JIRA, Bootstrap5, Material UI, and other web technologies.
 
 ### From April 2021 To Oct 2021 
-Working as Software Developer in SNS System Indore. Key skills include JavaScript, Angular, Node, Express, MongoDB, HTML5, CSS3, MySQL, Postgrey, MSSQL, GIT, JIRA, Bootstrap5, Material UI, and other web technologies.
+Working as Software Developer in **SNS System** Indore. Key skills include JavaScript, Angular, Node, Express, MongoDB, HTML5, CSS3, MySQL, Postgrey, MSSQL, GIT, JIRA, Bootstrap5, Material UI, and other web technologies.
 
 ### From April 2019 To April 2021 
-Working as Web Designer + Developer in Siddhi Softwares Bilaspur C.G. Key skills include JavaScript, Angular, Node, Express, MongoDB, HTML5, CSS3, MySQL, Postgrey, MSSQL, GIT, JIRA, Bootstrap5, Material UI, and other web technologies.
+Working as Web Designer + Developer in **Siddhi Softwares** Bilaspur C.G. Key skills include JavaScript, Angular, Node, Express, MongoDB, HTML5, CSS3, MySQL, Postgrey, MSSQL, GIT, JIRA, Bootstrap5, Material UI, and other web technologies.
 
 ### From June 2018 To April 2019 
-Working as Web Designer + Developer in Reliable Services. Key skills include JavaScript, Angular, Node, Express, MongoDB, HTML5, CSS3, MySQL, Postgrey, MSSQL, GIT, JIRA, Bootstrap5, Material UI, and other web technologies.
+Working as Web Designer + Developer in **Reliable Services**. Key skills include JavaScript, Angular, Node, Express, MongoDB, HTML5, CSS3, MySQL, Postgrey, MSSQL, GIT, JIRA, Bootstrap5, Material UI, and other web technologies.
 
 ### From May 2016 To June 2018 
-Working as Web Designer (Developer) in SWAN SOFTECH PVT LTD. Key skills include JavaScript, HTML, CSS, MySQL, Postgrey, MSSQL, GIT, Bootstrap, and other web technologies.
+Working as Web Designer (Developer) in **SWAN SOFTECH PVT LTD**. Key skills include JavaScript, HTML, CSS, MySQL, Postgrey, MSSQL, GIT, Bootstrap, and other web technologies.
 
 
 ##  Projects Details
