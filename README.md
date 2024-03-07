@@ -165,7 +165,7 @@ To secure a challenging position where I can leverage my skills and knowledge fo
 ## Work Experience 
 
 ### From April 2023 To Current
-Working as Software Developer in Web Synergies Pvt Ltd, Hyderabad. Key skills include JavaScript, Angular, Node, Express, MongoDB, HTML5, CSS3, MySQL, Postgrey, MSSQL, GIT, JIRA, Bootstrap5, Material UI, and other web technologies.
+Working as Software Developer in **Web Synergies Pvt Ltd**, Hyderabad. Key skills include JavaScript, Angular, Node, Express, MongoDB, HTML5, CSS3, MySQL, Postgrey, MSSQL, GIT, JIRA, Bootstrap5, Material UI, and other web technologies.
 
 ### From Jun 2022 To Feb 2023
 Working as Software Developer in **Growex Pvt Ltd**, Ahmedabad. Key skills include JavaScript, Angular, Node, Express, MongoDB, HTML5, CSS3, MySQL, Postgrey, MSSQL, GIT, JIRA, Bootstrap5, Material UI, and other web technologies.
