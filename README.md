@@ -1,4 +1,4 @@
-### Hi Developers 👋
+### Hi Everyone 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rewatiraman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Rewatiraman--01629954/)](https://www.linkedin.com/in/rewatiraman-sahu-346a35b4/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Rewatiraman-green)](https://www.ctsoft.in)
